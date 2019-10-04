@@ -15,3 +15,7 @@
 
 [ARP Deepdive](http://www.networksorcery.com/enp/protocol/arp.htm)
 
+
+
+# Video
+[ARP Explained](https://www.youtube.com/watch?v=xTOyZ6TWQdM)
