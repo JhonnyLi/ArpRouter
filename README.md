@@ -19,3 +19,9 @@
 
 ## Video
 [ARP Explained](https://www.youtube.com/watch?v=xTOyZ6TWQdM)
+
+
+#### Första utkastet... för lite för en första commit...
+
+Socket test = new Socket(SocketType.Raw,ProtocolType.Raw);
+test.EnableBroadcast = true;
