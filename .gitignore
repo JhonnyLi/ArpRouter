@@ -5,3 +5,6 @@
 /.vs/ArpRouter/v16/Server/sqlite3
 /obj
 /.vs/ArpRouter/v16
+/bin/Debug/netcoreapp3.0
+/ArpRouter.csproj.user
+/.vs/ArpRouter/DesignTimeBuild
